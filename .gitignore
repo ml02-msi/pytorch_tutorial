@@ -1,0 +1,8 @@
+archive/
+PyTorch/*
+.idea/*
+.venv/*
+archive.zip
+pyproject.toml
+.python-version
+uv.lock
