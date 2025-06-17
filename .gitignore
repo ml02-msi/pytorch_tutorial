@@ -6,3 +6,4 @@ archive.zip
 pyproject.toml
 .python-version
 uv.lock
+PyTorch/
